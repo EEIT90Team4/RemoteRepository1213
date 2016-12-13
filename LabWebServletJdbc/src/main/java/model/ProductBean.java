@@ -1,11 +1,14 @@
 package model;
 
+
+
 public class ProductBean {
 	private int id;
 	private String name;
 	private double price;
 	private java.util.Date make;
 	private int expire;
+
 	@Override
 	public String toString() {
 		return "{"+id+":"+name+":"+price+":"+make+":"+expire+"}";
