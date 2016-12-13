@@ -8,11 +8,7 @@ public class ProductBean {
 	private double price;
 	private java.util.Date make;
 	private int expire;
-	
-	public static void main(String args[]){
-		System.out.println("Hello World");
-	}
-	
+
 	@Override
 	public String toString() {
 		return "{"+id+":"+name+":"+price+":"+make+":"+expire+"}";
