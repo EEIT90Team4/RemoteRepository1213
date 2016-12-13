@@ -1,7 +1,5 @@
 package model;
 
-
-
 public class ProductBean {
 	private int id;
 	private String name;
