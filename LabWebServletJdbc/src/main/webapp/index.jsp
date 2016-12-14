@@ -9,7 +9,6 @@
 </head>
 <body>
 <h1>王省三</h1>
-<h1>王省三</h1>
 
 </body>
 </html>
