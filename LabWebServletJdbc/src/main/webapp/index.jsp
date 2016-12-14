@@ -8,7 +8,6 @@
 <title>Home</title>
 </head>
 <body>
-
 <h1>詹晟</h1>
 
 <h3>Welcome ${user.email}</h3>
