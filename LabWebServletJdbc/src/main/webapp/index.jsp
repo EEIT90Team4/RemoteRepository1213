@@ -11,17 +11,11 @@
 <h1>林紹瑜</h1>
 
 
+
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
-<h1>Conflict = =</h1>>
-<h1>Conflict !?</h1>>
-<h1>today is wednesday</h1>
-
-<h1>阿三GG</h1>
-<h1>阿三GG</h1>
-<h1>gg fkk</h1>>
 
 </body>
 </html>
