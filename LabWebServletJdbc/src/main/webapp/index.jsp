@@ -8,13 +8,19 @@
 <title>Home</title>
 </head>
 <body>
+
 <h1>魏聖典</h1>
+<h1>王省三</h1>
+
 
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/EEIT90Team4/RemoteRepository1213.git
 
 </body>
 </html>
