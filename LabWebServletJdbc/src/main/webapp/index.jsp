@@ -17,11 +17,15 @@
 <h1>Conflict = =</h1>>
 <h1>Conflict !?</h1>>
 <h1>today is wednesday</h1>
+<<<<<<< HEAD
 <h1>阿三GG</h1>
 <h1>阿三GG</h1>
 <h1>阿三GG</h1>
 <h1>阿三GG</h1>
 <h1>阿三GG</h1>
+=======
+<h1>gg fkk</h1>>
+>>>>>>> branch 'master' of https://github.com/EEIT90Team4/RemoteRepository1213.git
 
 
 </body>
