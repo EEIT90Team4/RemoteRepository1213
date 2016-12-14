@@ -7,11 +7,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home</title>
 </head>
-<body>
 
+<body>
 <h1>魏聖典</h1>
 <h1>林紹瑜</h1>
 <h1>王省三</h1>
+<h1>李伊鵬</h1>
 
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
